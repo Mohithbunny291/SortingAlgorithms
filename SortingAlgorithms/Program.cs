@@ -12,7 +12,9 @@ namespace SortingAlgorithms
         {
             //new SelectionSort();
 
-            new BubbleSort();
+            //new BubbleSort();
+
+            new runAppInsertionSort();
         }
     }
 }
